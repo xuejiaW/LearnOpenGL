@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00_HelloWindow", "00_HelloWindow\00_HelloWindow.vcxproj", "{A72BFDB6-4DDD-47A7-9F8B-30927C9105EF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00_CreateWindow", "00_CreateWindow\00_CreateWindow.vcxproj", "{A72BFDB6-4DDD-47A7-9F8B-30927C9105EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

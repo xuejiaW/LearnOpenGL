@@ -25,7 +25,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{A72BFDB6-4DDD-47A7-9F8B-30927C9105EF}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>_00_HelloWindow</RootNamespace>
+    <RootNamespace>_00_CreateWindow</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
