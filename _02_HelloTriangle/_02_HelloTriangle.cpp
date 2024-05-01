@@ -60,7 +60,7 @@ int main() {
 
     glBindBuffer(GL_ARRAY_BUFFER, 0);
     glBindVertexArray(0);
-    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, 0); // 必须在解绑VAO后才能解绑EBO
+    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, 0);
 
     Shader shader("./vertex.vert", "./fragment.frag");
     shader.use();
